@@ -1,0 +1,5 @@
+bananos:150
+huevos:3400
+queso:5000
+frijoles:1200
+cerezas:2000
